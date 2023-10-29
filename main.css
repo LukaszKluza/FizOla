@@ -1,0 +1,41 @@
+body{
+    font-size: 18px;
+    background-color: #909090;
+    color: #b1b1b1;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+main {
+    background-color: #6C6A61;
+    padding: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+}
+
+.navbar-nav {
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #424242;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #646464;
+}
+
+.description{
+    padding: 20px;
+}
+
+.logo{
+    text-align: center;
+}
+
+.price_list{
+    text-align: left;
+}
+
